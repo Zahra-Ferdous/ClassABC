@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ClassABC</string>
+
+    <string name="book1">JAVA Tutorials</string>
+    <string name="book2">Advanced JAVA Programming</string>
+    <string name="book3">JAVA The Complete Reference</string>
+
+    <string-array name="student_names">
+
+        <item>Shupta</item>
+        <item>Opi</item>
+        <item>Mahfuz</item>
+        <item>Maruf</item>
+        <item>Asnuva</item>
+        <item>Eram</item>
+        <item>Zahim</item>
+        <item>Arefin</item>
+        <item>Nabil</item>
+        <item>Saif</item>
+        <item>Shourin</item>
+        <item>shazia</item>
+        <item>Nafi</item>
+        <item>Rakib</item>
+        <item>Munna</item>
+        <item>Nishad</item>
+        <item>Antika</item>
+        <item>Puja</item>
+        <item>Tahsin</item>
+        <item>Tamim</item>
+
+    </string-array>
+
+    <string-array name="course_code">
+
+        <item>CSE-1100</item>
+        <item>CSE-1101</item>
+        <item>CSE-1102</item>
+        <item>CSE-1200</item>
+        <item>CSE-1201</item>
+        <item>CSE-1202</item>
+        <item>CSE-2100</item>
+        <item>CSE-2101</item>
+        <item>CSE-2102</item>
+        <item>CSE-2200</item>
+        <item>CSE-2201</item>
+        <item>CSE-2202</item>
+        <item>CSE-3100</item>
+        <item>CSE-3101</item>
+        <item>CSE-3102</item>
+        <item>CSE-3200</item>
+        <item>CSE-3201</item>
+        <item>CSE-3202</item>
+        <item>CSE-4100</item>
+        <item>CSE-4101</item>
+        <item>CSE-4102</item>
+        <item>CSE-4200</item>
+        <item>CSE-4201</item>
+        <item>CSE-4202</item>
+
+    </string-array>
+
+    <string-array name="session">
+
+        <item>2017-2018</item>
+        <item>2018-2019</item>
+        <item>2019-2020</item>
+        <item>2020-2021</item>
+        <item>2021-2022</item>
+        <item>2022-2023</item>
+        <item>2023-2024</item>
+        <item>2024-2025</item>
+        <item>2025-2026</item>
+        <item>2026-2027</item>
+        <item>2027-2028</item>
+        <item>2028-2029</item>
+        <item>2029-2030</item>
+
+
+    </string-array>
+
+</resources>
